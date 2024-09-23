@@ -4,7 +4,7 @@ metadata:
   name: prometheus-verifier
 data:
   prometheus-verifier: |
-    accountName: prometheus-demoserver
+    accountName: Prometheus
     monitoringProvider: PROMETHEUS
     metricTemplateSetup:
       percentDiffThreshold: hard
